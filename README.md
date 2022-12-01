@@ -21,6 +21,14 @@
 5. Refer to application.yml file of Discovery and ApiGateway Service for other meta data of the project.
 6. use API testing tool.
 
+## Note
+NEED TO ADD FEW ROOMS in database table **room** , else will throw error because 0 number of rooms available
+Sample queries:
+INSERT INTO `hoteldb`.`rooms` (`room_id`, `room_price`, `room_number`) VALUES ('1', '1000', '1');
+INSERT INTO `hoteldb`.`rooms` (`room_id`, `room_price`, `room_number`) VALUES ('2', '1000', '2');
+INSERT INTO `hoteldb`.`rooms` (`room_id`, `room_price`, `room_number`) VALUES ('3', '1000', '3');
+
+
 ### TECHNOLOGY USED
 1. SpringBoot
 2. MySQL as database
