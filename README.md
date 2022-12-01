@@ -1,5 +1,17 @@
 # HotelRoomBooking-SpringBootApp
  MicroService NCU 2022 Course - Mini Project 2
+ 
+ ### SCREENSHOTS 
+
+![Screenshot (97)](https://user-images.githubusercontent.com/71059426/205059751-de50b9be-985c-4c06-a695-6eb677f723db.png)
+
+------------------------------------------------------------------------------------------------------------------
+
+![Screenshot (98)](https://user-images.githubusercontent.com/71059426/205059805-ce4eafb3-63ce-4ce8-b9f3-27f6fff88e4e.png)
+
+------------------------------------------------------------------------------------------------------------------
+
+![Screenshot (99)](https://user-images.githubusercontent.com/71059426/205059849-9367e78b-6d03-4dc9-952b-9be0646ecacf.png)
 
 ### HOW TO RUN
 1. Download the code or clone the repo
@@ -35,17 +47,7 @@
 4. path = "/booking/cancel?bookingId=<generatedBookingId>"<br>
     Delete the saved booking info<br>
 
-### SCREENSHOTS 
 
-![Screenshot (97)](https://user-images.githubusercontent.com/71059426/205059751-de50b9be-985c-4c06-a695-6eb677f723db.png)
-
-------------------------------------------------------------------------------------------------------------------
-
-![Screenshot (98)](https://user-images.githubusercontent.com/71059426/205059805-ce4eafb3-63ce-4ce8-b9f3-27f6fff88e4e.png)
-
-------------------------------------------------------------------------------------------------------------------
-
-![Screenshot (99)](https://user-images.githubusercontent.com/71059426/205059849-9367e78b-6d03-4dc9-952b-9be0646ecacf.png)
 
 
 
