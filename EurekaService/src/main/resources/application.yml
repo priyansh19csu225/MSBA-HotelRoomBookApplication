@@ -11,3 +11,4 @@ spring:
     name: discovery-service-app
 server:
   port: '8761'
+  
