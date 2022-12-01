@@ -1,12 +1,24 @@
 # HotelRoomBooking-SpringBootApp
  MicroService NCU 2022 Course - Mini Project 2
+ 
+ ### SCREENSHOTS 
+
+![Screenshot (97)](https://user-images.githubusercontent.com/71059426/205059751-de50b9be-985c-4c06-a695-6eb677f723db.png)
+
+------------------------------------------------------------------------------------------------------------------
+
+![Screenshot (98)](https://user-images.githubusercontent.com/71059426/205059805-ce4eafb3-63ce-4ce8-b9f3-27f6fff88e4e.png)
+
+------------------------------------------------------------------------------------------------------------------
+
+![Screenshot (99)](https://user-images.githubusercontent.com/71059426/205059849-9367e78b-6d03-4dc9-952b-9be0646ecacf.png)
 
 ### HOW TO RUN
 1. Download the code or clone the repo
 2. open projects in spring suite and update the project.
-3. Start the database server and perform config according to db in **application.propertites** file of Booking & Payment Service
+3. Start the database server and perform config according to db in **application.yml** file of Booking & Payment Service
 4. start all four services 
-5. Refer to application.properties file of Discovery and ApiGateway Service for other meta data of the project.
+5. Refer to application.yml file of Discovery and ApiGateway Service for other meta data of the project.
 6. use API testing tool.
 
 ### TECHNOLOGY USED
@@ -35,15 +47,8 @@
 4. path = "/booking/cancel?bookingId=<generatedBookingId>"<br>
     Delete the saved booking info<br>
 
-### SCREENSHOTS 
 
-<img width="1440" alt="Screenshot 2022-11-30 at 10 24 40 PM" src="https://user-images.githubusercontent.com/108087172/204868343-ba79783e-e993-44c8-92bf-6dca623cae35.png">
-------------------------------------------------------------------------------------------------------------------
 
-<img width="1025" alt="Screenshot 2022-11-30 at 10 26 20 PM" src="https://user-images.githubusercontent.com/108087172/204868380-5358b1fc-c9b5-4aa8-ad43-4c7c0b03c6dc.png">
-------------------------------------------------------------------------------------------------------------------
-
-<img width="1025" alt="Screenshot 2022-11-30 at 10 26 42 PM" src="https://user-images.githubusercontent.com/108087172/204868397-fb76921c-1f75-43be-9ee3-78235b659822.png">
 
 
 
