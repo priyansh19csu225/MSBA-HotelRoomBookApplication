@@ -1,5 +1,4 @@
 # HotelRoomBooking-SpringBootApp
- MicroService NCU 2022 Course - Mini Project 2
  
  ### SCREENSHOTS 
 
